@@ -1,0 +1,19 @@
+<RCC>
+    <qresource prefix="/">
+        <file>ui/DM_20241005141415_001.svg</file>
+        <file>ui/DM_20241005141415_002.svg</file>
+        <file>ui/DM_20241005141415_003.svg</file>
+        <file>ui/DM_20241005141415_004.svg</file>
+        <file>ui/DM_20241005141415_005.svg</file>
+        <file>ui/DM_20241005141615_001.svg</file>
+        <file>ui/DM_20241005141615_002.svg</file>
+        <file>ui/DM_20241005141909_001.svg</file>
+        <file>ui/DM_20241005141909_002.svg</file>
+        <file>ui/DM_20241005141909_003.svg</file>
+        <file>ui/folder-close.svg</file>
+        <file>ui/list-bottom.svg</file>
+        <file>ui/go-end.svg</file>
+        <file>ui/go-start.svg</file>
+        <file>ui/icon.png</file>
+    </qresource>
+</RCC>
